@@ -3,10 +3,8 @@ Code for enumerating possible obstuctions to symplectic embeddings
 
 This repository contains code to accompany the paper "Symplectic Embeddings of Four-Dimensional Ellipsoids into Almost-Cubic Polydiscs", by Cory Colbert and Andrew Lee. The file `tails.py` contains code which searches for candidate solutions  $(d,e;m_1,\dots)$ to the Diophantine system
 
-<p align="center">
-$ \sum_i m_i = 2(d+e)-1$
-$ \sum_i m_i^2 = 2de+1$
-</p>
+$$ \sum_i m_i = 2(d+e)-1$$
+$$ \sum_i m_i^2 = 2de+1$$
 
 for fixed values of $d,e$. The other accompanying .py files sift through the candidate solutions to find those which satisfy the Diophantine solution above, along with other necessary conditions.
 
