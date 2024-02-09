@@ -1,5 +1,4 @@
 # Obstructive Classes in Symplectic Embeddings
-Code for enumerating possible obstuctions to symplectic embeddings
 
 This repository contains code to accompany the paper "Symplectic Embeddings of Four-Dimensional Ellipsoids into Almost-Cubic Polydiscs", by Cory Colbert and Andrew Lee. The file `tails.py` contains code which searches for candidate solutions  $(d,e;m_1,\dots)$ to the Diophantine system
 
